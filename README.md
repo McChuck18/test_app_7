@@ -1,3 +1,3 @@
 # README
 
-Complete Ruby on Rails Developer by Chuck
+Complete Ruby on Rails Developer by Chuck Bright
